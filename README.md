@@ -1,2 +1,2 @@
-# rf_soil_moisture_prediction_2025
+# Random forest soil moisture prediction
 Predict soil moisture from Sentinel-1 data using random forest regression
