@@ -1,5 +1,5 @@
-# Random forest soil moisture prediction
-Predict soil moisture from Sentinel-1 data using random forest regression
+# Soil moisture prediction using ML models
+Predict soil moisture from Sentinel-1 data using random forest regression, support vector regression and XGBoost regression
 
 ## Setup for Windows
 1. Install Python 3.11 (or later) from the Microsoft Store.
