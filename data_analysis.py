@@ -16,7 +16,7 @@ def correlation_matrix_heatmap(df, output_file=None, identifier=None):
     plt.tight_layout()
     
     if output_file:
-        plt.savefig(output_file + ".png")
+        plt.savefig(output_file)
     
     plt.show()
 
